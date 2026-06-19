@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ualpeviegr.github.io/ayx-chinese-com/sitemap.xml
